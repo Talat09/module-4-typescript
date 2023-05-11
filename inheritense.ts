@@ -33,3 +33,4 @@ class Student extends Person {
 }
 const teacher1 = new Student("akil alam", 45, "mog bazae", "Lecturer");
 console.log(teacher1.getGrade("A"));
+export {};
