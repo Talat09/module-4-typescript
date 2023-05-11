@@ -57,3 +57,4 @@ const getAreaOfShape = (param: Shape) => {
 };
 getAreaOfShape(new Circle(3.1416));
 getAreaOfShape(new Rectangle(10, 5));
+export {};
